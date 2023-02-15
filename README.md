@@ -1,1 +1,2 @@
-# tutorial-DevOps
+# DevOps
+Created to learn DevOps
